@@ -25,14 +25,14 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
-    "electron": "^29.1.1",
+    "@vitejs/plugin-vue": "^5.1.0",
+    "electron": "^29.4.5",
     "electron-builder": "^24.13.3",
-    "typescript": "^5.4.2",
-    "vite": "^5.1.5",
-    "vite-plugin-electron": "^0.28.4",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.4",
+    "vite-plugin-electron": "^0.28.7",
     "vite-plugin-electron-renderer": "^0.14.5",
-    "vue": "^3.4.21",
-    "vue-tsc": "^2.0.6"
+    "vue": "^3.4.34",
+    "vue-tsc": "^2.0.28"
   }
 }
